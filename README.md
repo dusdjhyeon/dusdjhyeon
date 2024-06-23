@@ -9,6 +9,8 @@ I'm Dahyeon Kang, and I'm a student interested in the Cloud and Linux ecosystem.
   <li>2023.07 ~ 2023.09 : OpenSource Contribution Academy Terraform on NAVER Cloud LeadMentee</li>
   <li>2023.08 ~ now : AWSKRUG University Student Group 7th</li>
   <li>2023.12 ~ 2024.02 : EZCOM INC CloudBiz Intern</li>
+  <li>2024.06 ~         : Layer5 Intern</li>
+  <li>2024.06 ~         : LFX Mentorship | @LitmusChaos</li>
 </ul>
 
 <h3>✨ Languages And Tools ...</h3>
