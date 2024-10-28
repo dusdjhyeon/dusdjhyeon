@@ -2,6 +2,10 @@
 
 I'm Dahyeon Kang, and I'm a student interested in the Cloud and Linux ecosystem. 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/dusdjhyeon?pet-id=1" width="1000" height="120"/>
+</a>
+
 <h3>🔭 My History ...</h3>
 <ul>
   <li>2020.03 ~ 2025.02 : Kyunghee Univ</li>
