@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"/>  Welcome to my page! </h1>
+<h1> Welcome to my page! </h1>
 
 I'm Dahyeon Kang, and I'm a student interested in the Cloud and Linux ecosystem. 
 
