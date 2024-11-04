@@ -15,7 +15,7 @@ I'm Dahyeon Kang, and I'm a student interested in the Cloud and Linux ecosystem.
   <li>2023.12 ~ 2024.02 : EZCOM INC CloudBiz Intern</li>
   <li>2024.06 ~ 2024.08  : Layer5 Software Engineer Intern</li>
   <li>2024.06 ~ 2024.08 : LFX Mentorship | @LitmusChaos</li>
-  <li>2024.08 ~         : NAVER CLOUD Terraform Provider Development Intern</li>
+  <li>2024.08 ~ 2024.11 : NAVER CLOUD Terraform Provider Development Intern</li>
 </ul>
 
 <h3>✨ Languages And Tools ...</h3>
