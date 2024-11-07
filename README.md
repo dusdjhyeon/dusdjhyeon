@@ -2,9 +2,6 @@
 
 I'm Dahyeon Kang, and I'm a student interested in the Cloud and Linux ecosystem. 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dusdjhyeon"/>
-</a>
 
 <h3>🔭 My History ...</h3>
 <ul>
@@ -21,25 +18,31 @@ I'm Dahyeon Kang, and I'm a student interested in the Cloud and Linux ecosystem.
 <h3>✨ Languages And Tools ...</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/amazone aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> 
-  <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Terraform-430098?style=flat&logo=Terraform&logoColor=white"/>
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
 </div>
 
 
 
-<h3>📫 How to reach me ...</h3>
-<strong>Email</strong>: dusdj0813@gmail.com<br>
-<strong>Blog</strong>: https://velog.io/@dusdjhyeon/posts<br>
-<strong>Eng Blog</strong>: https://medium.com/@dusdjhyeon
+### 📫 How to reach me ...
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:sumink0903@gmail.com)](mailto:dusdj0813@gmail.com)
+[![LinkedIn Badge](http://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dusdjhyeon/)](https://www.linkedin.com/in/dusdjhyeon/)
+[![Resume](https://img.shields.io/badge/Resume-%23000000?style=flat&logo=notion&logoColor=white&link=https://my.surfit.io/w/379407367)](https://my.surfit.io/w/379407367)
+[![Tech Blog Badge](http://img.shields.io/badge/Blog-white?style=flat&logo=Tistory&logoColor=black&link=https://medium.com/@dusdjhyeon)](https://medium.com/@dusdjhyeon)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/dusdjhyeon"/>
+</a>
