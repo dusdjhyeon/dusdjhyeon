@@ -43,7 +43,3 @@ I'm Dahyeon Kang, and I'm a student interested in the Cloud and Linux ecosystem.
 [![LinkedIn Badge](http://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dusdjhyeon/)](https://www.linkedin.com/in/dusdjhyeon/)
 [![Resume](https://img.shields.io/badge/Resume-%23000000?style=flat&logo=readdotcv&logoColor=white&link=https://my.surfit.io/w/379407367)](https://my.surfit.io/w/379407367)
 [![Tech Blog Badge](http://img.shields.io/badge/Blog-white?style=flat&logo=Medium&logoColor=black&link=https://medium.com/@dusdjhyeon)](https://medium.com/@dusdjhyeon)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dusdjhyeon"/>
-</a>
