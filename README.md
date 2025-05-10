@@ -19,7 +19,7 @@ I'm Dahyeon Kang, and I'm a student interested in the Cloud and Linux ecosystem.
 <h3>✨ Languages And Tools ...</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"> 
   <img src="https://img.shields.io/badge/Terraform-430098?style=flat&logo=Terraform&logoColor=white"/>
 </div>
